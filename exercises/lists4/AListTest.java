@@ -71,6 +71,6 @@ public class AListTest {
     }
 
     public static void main(String[] args) {
-        jh61b.junit.TestRunner.runTests("all", AListTest.class);
+        //junit.TestRunner.runTests("all", AListTest.class);
     }
 } 
